@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
-import logo from '../src/assets/Logo.png'
+import logo from '../src/assets/Logo.jpg'
 import {GrFacebookOption, GrTwitter, GrLinkedinOption} from 'react-icons/gr'
 
 const Footer = () => {
