@@ -47,7 +47,7 @@ const Footer = () => {
       </div>
 
       <div className='copyright'>
-        <p>Copyright © 2022 Dine Market</p>
+        <p>Copyright © 2022 create your art Market</p>
         <p>Design by. <span>Weird Design Studio</span></p>
         <p>Code by. <span>shabrina12 on github</span></p>
       </div>
